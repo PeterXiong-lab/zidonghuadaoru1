@@ -30,7 +30,7 @@ jobs:
             --onefile ^
             --console ^
             --name 地址处理工具 ^
-            your_script.py
+            地址处理工具.py
 
       - name: Upload EXE
         uses: actions/upload-artifact@v4
